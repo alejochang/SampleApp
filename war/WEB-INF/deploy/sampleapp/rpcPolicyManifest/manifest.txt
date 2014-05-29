@@ -1,0 +1,3 @@
+# Module sampleapp
+# RPC service class, partial path of RPC policy file
+chang.alejandro.client.service.ticket.TicketService, 56B3B7CB8B6E31F4A9128F8DA2C528FA.gwt.rpc

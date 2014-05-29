@@ -1,0 +1,2 @@
+serviceClass: chang.alejandro.client.service.ticket.TicketService
+path: 56B3B7CB8B6E31F4A9128F8DA2C528FA.gwt.rpc

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="xstream">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/war/WEB-INF/lib/xstream/xstream.jar!/" />
+      <root url="jar://$PROJECT_DIR$/war/WEB-INF/lib/xstream/xstream-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/war/WEB-INF/lib/xstream/xstream-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/war/WEB-INF/lib/xstream/xpp3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
