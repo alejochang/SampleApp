@@ -1,0 +1,4 @@
+SampleApp
+=========
+
+Basic GWT app
